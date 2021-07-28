@@ -1,0 +1,8 @@
+pytelegrambotapi
+opencv-python
+cryptography
+comtypes
+pywin32
+pyaudio
+pillow
+pycaw
