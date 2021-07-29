@@ -1,9 +1,9 @@
 pytelegrambotapi
+opencv-python
 cryptography
 comtypes==1.1.4
 pypiwin32
-pyaudio
 pillow
 pycaw
 numpy
-opencv-python
+pyaudio.x.x.x.whl
