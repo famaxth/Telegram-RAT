@@ -1,7 +1,6 @@
 pytelegrambotapi
 numpy
 opencv-python
-libopencv-dev
 cryptography
 comtypes==1.1.4
 pypiwin32
