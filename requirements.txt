@@ -1,5 +1,5 @@
 pytelegrambotapi
-python-numpy
+numpy
 opencv-python
 libopencv-dev
 cryptography
