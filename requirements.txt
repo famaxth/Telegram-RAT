@@ -6,4 +6,4 @@ pypiwin32
 pillow
 pycaw
 numpy
-pyaudio.x.x.x.whl
+pyaudio
