@@ -2,7 +2,7 @@ pytelegrambotapi
 opencv-python
 cryptography
 comtypes
-pywin32
+pypiwin32
 pyaudio
 pillow
 pycaw
